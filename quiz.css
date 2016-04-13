@@ -1,7 +1,7 @@
+* {
+	font-family: sans-serif;
+}
 
-/*body {
-	display: inline-flex;
-}*/
 .card {
 	max-width: 30%;
 	margin-right: 0;
@@ -11,6 +11,7 @@
 }
 p {
 	text-align: justify;
+	padding: 0 10px;
 }
 h1 {
 	border: 1px dotted lightgray;
@@ -29,4 +30,31 @@ img {
 	display: block;
   margin: auto;
 }
+
+.specSec {
+	margin-top: 16px;
+}
+
+.secHead,
+.priceHead {
+	padding-left: 10px;
+}
+.specs,
+.quant {
+	font-size: 0.8em;
+	font-weight: bold;
+	padding-left: 20px;
+}
+
+footer {
+	font-size: 0.5em;
+}
+
+
+
+
+
+
+
+
 
