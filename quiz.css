@@ -1,15 +1,11 @@
-/** {
-	margin: 0;
-}*/
-.flextop
-.flexbottom {
-	display: inline-flex;
 
-}
+/*body {
+	display: inline-flex;
+}*/
 .card {
 	max-width: 30%;
-	min-height: 50%;
-
-	margin: 1.3%;
+	margin-right: 0;
+	display: inline-block;
+	padding: 1.3%;
 	border: 1px solid lightblue;
 }
