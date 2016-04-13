@@ -23,3 +23,10 @@ h1 {
 	background-color: darkgray;
 	color: yellow;
 }
+
+img {
+	max-height: 214px;
+	display: block;
+  margin: auto;
+}
+
