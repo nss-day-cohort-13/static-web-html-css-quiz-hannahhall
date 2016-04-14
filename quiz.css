@@ -1,4 +1,4 @@
-* {
+body {
 	font-family: sans-serif;
 }
 
@@ -28,7 +28,7 @@ h1 {
 img {
 	max-height: 214px;
 	display: block;
-  margin: auto;
+	margin: auto;
 }
 
 .specSec {
